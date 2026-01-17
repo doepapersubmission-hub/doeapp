@@ -8,7 +8,7 @@ Action: Use the "Upload Data" panel on the left sidebar to import your file.
 2. Select Experimental Design
 Choose the specific design that matches your experimental setup from the dropdown menu. The app supports:
 Single Factor Designs: Completely Randomized Design (CRD), Randomized Complete Block Design (RCBD), Latin Square Design (LSD), and Graeco-Latin Square Design (GLSD).
-Factorial Designs: Factorial CRD and Factorial RCBD (2 or 3 factors).
+Factorial Designs: Factorial CRD and Factorial RCBD (2 or more).
 Specialized Designs: 2k Factorial and Split-Plot Designs.
 3. Define Model Variables
 Once the design is selected, the interface will dynamically update to request the relevant variables:
