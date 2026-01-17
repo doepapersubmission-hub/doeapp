@@ -9,14 +9,14 @@ Action: Use the "Upload Data" panel on the left sidebar to import your file.
 Choose the specific design that matches your experimental setup from the dropdown menu. The app supports:
 Single Factor Designs: Completely Randomized Design (CRD), Randomized Complete Block Design (RCBD), Latin Square Design (LSD), and Graeco-Latin Square Design (GLSD).
 Factorial Designs: Factorial CRD and Factorial RCBD (2 or more).
-Specialized Designs: 2k Factorial and Split-Plot Designs.
+Specialized Designs: 2^k Factorial and Split-Plot Designs.
 3. Define Model Variables
 Once the design is selected, the interface will dynamically update to request the relevant variables:
 •	Response Variable: Select the numeric column representing your outcome.
 •	Treatment Factors: Select the categorical columns for your main effects.
 Blocking Factors: If using RCBD, LSD, or Split-Plot, select the columns representing blocks, rows, columns, or whole-plots.
 4. Analysis & Diagnostics
-The app automatically fits the General Linear Model (ANOVA) and generates the following tabs:
+The app automatically fits the Model (ANOVA) and generates the following tabs:
 Results: Displays the ANOVA table and significance levels (p-values).
 Visualization: Provides boxplots and interaction plots to visualize main effects and interactions.
 •	Diagnostics: Automatically checks parametric assumptions using:
