@@ -1,0 +1,17 @@
+Cities _Rowblocking factor,Periods,Treatments, Road_Accidents 
+Chennai,Jan,A,98
+Chennai,Feb,B,146
+Chennai,Mar,C,7
+Chennai,April,D,6
+Coimbatore,Jan,B,160
+Coimbatore,Feb,C,7
+Coimbatore,Mar,D,6
+Coimbatore,April,A,102
+Madurai,Jan,C,4
+Madurai,Feb,D,10
+Madurai,Mar,A,85
+Madurai,April,B,185
+Thanjavur,Jan,D,4
+Thanjavur,Feb,A,7
+Thanjavur,Mar,B,75
+Thanjavur,April,C,1
