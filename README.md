@@ -1,5 +1,5 @@
 # doeapp
-An interactive R Shiny app for designing and analyzing experiments, supporting CRD, RBD, factorial, split-plot, and confounded designs. It offers a simple web interface with no coding required, reproduces published results for validation, and enhances learning through guided analysis.
+An interactive R Shiny app for designing and analyzing experiments, supporting CRD, RBD,LSD, GLSD, factorial, split-plot, and confounded designs. It offers a simple web interface with no coding required, reproduces published results for validation, and enhances learning through guided analysis.
 Guide for the app:
 1. Data Upload
 •	Format: Prepare your data in .csv or .xlsx (Excel) format.
